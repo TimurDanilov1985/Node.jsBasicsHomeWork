@@ -1,0 +1,14 @@
+{
+  "name": "my_passwords_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "timur_danilov",
+  "license": "ISC",
+  "description": "generate a unique password",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
